@@ -1,4 +1,4 @@
-# UNI-WORK-DSA-ASSIGNMENT-ROLL-NUMBER-2K24# DSA Assignment - Stack-based Problems
+# UNI-WORK-DSA-ASSIGNMENT-ROLL-NUMBER-2k24/CSE/26# DSA Assignment - Stack-based Problems
 
 **Name:** Ali Anwar  
 **Roll Number:** 2k24/CSE/26  
